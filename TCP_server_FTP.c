@@ -1,6 +1,6 @@
 /*
 for RUN
-$ gcc -pthread 201801261_server_stream.c -o server.o
+$ gcc -pthread TCP_server_FTP.c -o server.o
 $ ./server.o PORT_NUM
 here PORT_NUM any you want
 for terminate

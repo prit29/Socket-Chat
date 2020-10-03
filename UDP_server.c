@@ -1,6 +1,6 @@
 /*
 for RUN
-$ gcc 201801261_server_datagram.c -o server.o
+$ gcc UDP_server.c -o server.o
 $ ./server.o PORT_NUM SERVER_TYPE &
 here PORT_NUM any you want
 and SERVER_TYPE 1 for OO(one-to-one) & 2 for BC(broadcast)

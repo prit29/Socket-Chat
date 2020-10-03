@@ -1,6 +1,6 @@
 /*
 for RUN
-$ gcc -pthread 201801261_client_stream.c -o client.o
+$ gcc -pthread TCP_client.c -o client.o
 $ ./client.o localhost PORT_NUM
 here PORT_NUM same given in server.o
 for terminate
